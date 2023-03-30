@@ -52,6 +52,9 @@ body {
 .card-body {
   padding: 30px;
 }
+.card-body-extra {
+  padding-bottom: 55px;
+}
 
 .card-footer {
   padding: 0 30px 30px;
