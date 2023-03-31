@@ -311,6 +311,6 @@ footer a {
   }
 }
 
-a:hover {
+a:hover#footer-link {
   color: lightskyblue;
 }
